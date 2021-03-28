@@ -1,5 +1,7 @@
 # Handy Colors
 
-List of named colors + palettes
+[Handy Colors](https://fu4303.github.io/handy-colors/#full-palette)List of named colors + palettes
 
-<a href="https://yoksel.github.io/handy-colors/">yoksel.github.io/handy-colors/</a>
+![](handy-colors.png)
+
+Thanks to [Yoksel](https://github.com/yoksel) for the backbones of this project
